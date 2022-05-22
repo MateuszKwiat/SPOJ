@@ -31,4 +31,6 @@
 *.exe
 *.out
 *.app
-/.vs
+*.vs/
+*.vcxproj*
+*x64/
